@@ -7,11 +7,10 @@ def cal():
 
 # Define a question/answer dictionary
 qa_dict = {
-    "hello":"Hello Algo_Avengers",
+    "hello":"Hello",
     "what is your name": "My name is Dialogix",
     "how are you today": "I don't have feelings, but I'm here to help!",
-    "what is the weather like today": "I'm sorry, I cannot provide real-time weather information.",
-    "who created you": "I was created by a team of developers at OpenAI.",
+    "who created you": "I was created by Algo_Avengers .",
     "what is the meaning of life": "The meaning of life is a philosophical question that has no single answer.",
     "goodbye": "Goodbye! Feel free to ask more questions anytime.",
 }
