@@ -1,6 +1,6 @@
-import datetime
-import subprocess
-
+import datetime #module for Timw
+import subprocess #module for calculator
+#Calculator Function
 def cal():
     subprocess.Popen(["open", "-a", "Calculator"])
 
